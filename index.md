@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala
 
 ```markdown
 Syntax highlighted code block
