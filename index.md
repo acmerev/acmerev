@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my page 
+Iam Emmanuel Montiel Cruz 
+
+Bio
+
+Iam a developer en JavaScrip and JAVA and other languagues 
 
 You can use the [editor on GitHub](https://github.com/acmerev/acmerev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
