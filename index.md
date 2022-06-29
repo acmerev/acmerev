@@ -1,5 +1,5 @@
-## Welcome to my page 
-Iam Emmanuel Montiel Cruz 
+## Emmanuel Montiel Cruz 
+Software Ingenier
 
 Bio
 
