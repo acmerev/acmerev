@@ -13,25 +13,32 @@ I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala
 ```markdown
 Estudios 
 
-# Graduado en Sistemas Distribuidos.
+## Sistemas Distribuidos.
 
 Universidad Autonoma de Tlaxcala
-Programa Licenciatura en Ingenieria en Computacion 2005-2010
+Programa Licenciatura en Ingenieria en Computacion 
+2005-2010
 
-
-## Actualmente Cursando Maestria en Ingeniria de Software
+## Maestria en Ingeniria de Software
 
 Universidad Autonoma de Tlaxcala 
 Programa de Posgrado en Ingenieria de Softwarer  
 2021-2023
 
-### Header 3
+## Skill´s
 
-- Bulleted
-- List
+- JavaScript
+- Java
+- C++
+- Python
+- Go
+- kotlyn
 
-1. Numbered
-2. List
+## Framework´s
+
+1. Node.js
+2. Vue.js
+3. 
 
 **Bold** and _Italic_ and `Code` text
 
