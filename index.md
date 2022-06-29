@@ -3,7 +3,7 @@ Software Ingenier
 
 Bio
 
-I am a Full stack Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue, nodejs, angular, react, python.
+I am a Full stack Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Java, C, Vue, nodejs, angular, react, python.
 
 You can use the [editor on GitHub](https://github.com/acmerev/acmerev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
