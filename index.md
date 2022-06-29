@@ -12,21 +12,17 @@ I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala
 
 ```markdown
 Estudios 
-
 ## Sistemas Distribuidos.
-
 Universidad Autonoma de Tlaxcala
 Programa Licenciatura en Ingenieria en Computacion 
 2005-2010
 
 ## Maestria en Ingeniria de Software
-
 Universidad Autonoma de Tlaxcala 
 Programa de Posgrado en Ingenieria de Softwarer  
 2021-2023
 
 ## Skill´s
-
 - JavaScript
 - Java
 - C++
@@ -35,10 +31,8 @@ Programa de Posgrado en Ingenieria de Softwarer
 - kotlyn
 
 ## Framework´s
-
 1. Node.js
 2. Vue.js
-3. 
 
 **Bold** and _Italic_ and `Code` text
 
