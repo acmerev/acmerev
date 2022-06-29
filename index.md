@@ -11,10 +11,20 @@ I am a Full stack Developer with industry experience building websites and web a
 I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala
 
 ```markdown
-Syntax highlighted code block
+Estudios 
 
-# Header 1
-## Header 2
+# Graduado en Sistemas Distribuidos.
+
+Universidad Autonoma de Tlaxcala
+Programa Licenciatura en Ingenieria en Computacion 2005-2010
+
+
+## Actualmente Cursando Maestria en Ingeniria de Software
+
+Universidad Autonoma de Tlaxcala 
+Programa de Posgrado en Ingenieria de Softwarer  
+2021-2023
+
 ### Header 3
 
 - Bulleted
