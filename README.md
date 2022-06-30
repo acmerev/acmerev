@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @acmerev
+- 👋 Hi, I’m @acmerev a Software Engineer
 - 👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
-- 🌱 I’m currently learning in MAster degree in Autonomus University of Tlaxcala.
-- 💞️ I’m looking to collaborate on peoyects 
+- 🌱 I’m currently learning in Master degree in Autonomus University of Tlaxcala.
+- 💞️ I’m looking to collaborate in community projects and more...
 - 📫 How to reach me ...
 
 <!---
