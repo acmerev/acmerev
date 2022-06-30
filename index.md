@@ -40,11 +40,27 @@ Programa de Posgrado en Ingenieria de Softwarer
 ```
 
 ```mermaid
-  graph TD;
-      Emmanuel Montiel Cruz-->B;
-      Emmanuel Montiel Cruz-->C;
-      B-->D;
-      C-->D;
+  classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
