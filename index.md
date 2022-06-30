@@ -41,13 +41,13 @@ Programa de Posgrado en Ingenieria de Softwarer
 
 ```mermaid
   classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
+    Emmanuel_Montiel_Cruz <|-- Duck
+    Emmanuel_Montiel_Cruz <|-- Fish
+    Emmanuel_Montiel_Cruz <|-- Zebra
+    Emmanuel_Montiel_Cruz : +int age
+    Emmanuel_Montiel_Cruz : +String gender
+    Emmanuel_Montiel_Cruz: +isMammal()
+    Emmanuel_Montiel_Cruz: +mate()
     class Duck{
         +String beakColor
         +swim()
