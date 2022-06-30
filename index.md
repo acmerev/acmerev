@@ -44,8 +44,10 @@ Programa de Posgrado en Ingenieria de Softwarer
     Emmanuel_Montiel_Cruz <|-- Duck
     Emmanuel_Montiel_Cruz <|-- Fish
     Emmanuel_Montiel_Cruz <|-- Zebra
-    Emmanuel_Montiel_Cruz : +int age
-    Emmanuel_Montiel_Cruz : +String gender
+    Emmanuel_Montiel_Cruz : +Java
+    Emmanuel_Montiel_Cruz : +Spring Boot
+    Emmanuel_Montiel_Cruz : +JavaScrip
+    Emmanuel_Montiel_Cruz : +C++
     Emmanuel_Montiel_Cruz: +isMammal()
     Emmanuel_Montiel_Cruz: +mate()
     class Duck{
