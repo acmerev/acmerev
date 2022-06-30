@@ -8,7 +8,8 @@ I am a Full stack Developer with industry experience building websites and web a
 
 ### RESUME
 
-I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala
+I´m Ingenier in Computer science Gradruate of Univerity Autonomus of Tlaxcala and pasion for Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
+
 
 ```markdown
 Estudios 
@@ -21,6 +22,7 @@ Programa Licenciatura en Ingenieria en Computacion
 Universidad Autonoma de Tlaxcala 
 Programa de Posgrado en Ingenieria de Softwarer  
 2021-2023
+
 
 ## Skill´s
 - JavaScript
@@ -78,8 +80,6 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
