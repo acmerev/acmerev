@@ -41,8 +41,8 @@ Programa de Posgrado en Ingenieria de Softwarer
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
+      Emmanuel Montiel Cruz-->B;
+      Emmanuel Montiel Cruz-->C;
       B-->D;
       C-->D;
 ```
