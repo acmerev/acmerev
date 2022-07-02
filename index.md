@@ -43,7 +43,7 @@ Programa de Posgrado en Ingenieria de Softwarer
 
 ```mermaid
   classDiagram
-    Emmanuel_Montiel_Cruz <|-- Duck
+    Emmanuel_Montiel_Cruz <|-- skill
     Emmanuel_Montiel_Cruz <|-- Fish
     Emmanuel_Montiel_Cruz <|-- Zebra
     Emmanuel_Montiel_Cruz : +Java
