@@ -52,8 +52,11 @@ Programa de Posgrado en Ingenieria de Softwarer
     Emmanuel_Montiel_Cruz : +C++
     Emmanuel_Montiel_Cruz: +isMammal()
     Emmanuel_Montiel_Cruz: +mate()
-    class Duck{
-        +String beakColor
+    class skill{
+        +Java
+        +C++
+        +JavaScrip
+        +Python
         +swim()
         +quack()
     }
