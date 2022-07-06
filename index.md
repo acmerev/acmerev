@@ -44,8 +44,8 @@ Programa de Posgrado en Ingenieria de Softwarer
 ```mermaid
   classDiagram
     Emmanuel_Montiel_Cruz <|-- skill
-    Emmanuel_Montiel_Cruz <|-- Fish
-    Emmanuel_Montiel_Cruz <|-- Zebra
+    Emmanuel_Montiel_Cruz <|-- Proyect
+    Emmanuel_Montiel_Cruz <|-- Education
     Emmanuel_Montiel_Cruz : +Java
     Emmanuel_Montiel_Cruz : +Spring Boot
     Emmanuel_Montiel_Cruz : +JavaScrip
@@ -60,11 +60,11 @@ Programa de Posgrado en Ingenieria de Softwarer
         +Agil()
         +Scrum()
     }
-    class Fish{
+    class Proyect{
         -int sizeInFeet
         -canEat()
     }
-    class Zebra{
+    class Education{
         +bool is_wild
         +run()
     }
@@ -84,4 +84,3 @@ journey
       Sit down: 5: Me
 ```
 
-ormar recursos humanos capacitados en tecnologías de redes y sistemas distribuidos, para así diagnosticar, mantener las redes de datos y soportar servicios distribuidos que requieran de mecanismos de transporte e intercambio entre agentes.
