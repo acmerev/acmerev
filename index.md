@@ -84,3 +84,4 @@ journey
       Sit down: 5: Me
 ```
 
+ormar recursos humanos capacitados en tecnologías de redes y sistemas distribuidos, para así diagnosticar, mantener las redes de datos y soportar servicios distribuidos que requieran de mecanismos de transporte e intercambio entre agentes.
