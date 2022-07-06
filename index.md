@@ -16,7 +16,7 @@ Estudios
 ## Sistemas Distribuidos.
 Universidad Autonoma de Tlaxcala
 Programa Licenciatura en Ingenieria en Computacion 
-2005-2010
+2005-2009
 
 ## Maestria en Ingeniria de Software
 Universidad Autonoma de Tlaxcala 
@@ -57,8 +57,8 @@ Programa de Posgrado en Ingenieria de Softwarer
         +C++
         +JavaScrip
         +Python
-        +swim()
-        +quack()
+        +Agil()
+        +Scrum()
     }
     class Fish{
         -int sizeInFeet
