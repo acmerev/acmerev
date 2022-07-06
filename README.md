@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
 - 🌱 I am currently studying a Master's Degree in Software Engineering at the Autonomous University of Tlaxcala.
 - 💞️ I’m looking to collaborate in community projects and more...
+- i love metodology scrum and tinking 
 
 
 <!---
