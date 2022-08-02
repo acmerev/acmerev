@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=EMC%20&color=timeGradient&fontAlignY=50&fontAlign=20)
  
 
 
