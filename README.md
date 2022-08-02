@@ -56,3 +56,11 @@ acmerev@hotmail.com
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&hide=html&layout=compact&theme=highcontrast" />
+ 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ </details>
