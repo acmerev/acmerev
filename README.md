@@ -1,3 +1,7 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Acmerev%20&fontAlignY=40&color=gradient)
+ 
+
+
 - 👋 Hi, I’m @acmerev a Software Engineer
 - 👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
 - 🌱 I am currently studying a Master's Degree in Software Engineering at the Autonomous University of Tlaxcala.
