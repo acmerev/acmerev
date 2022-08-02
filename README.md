@@ -37,13 +37,13 @@ acmerev@hotmail.com
 
 ```javascript
 
-let emc = {
-    name: 'Emmanuel',
-    whois: 'Ingenier of Software',
-    stack: 'Full',
-    country: 'Mex'
-    Tecs; {'HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React'}
-};
+ let emc = {
+        name: 'Emmanuel',
+        whois: 'Ingenier of Software',
+        stack: 'Full',
+        country: 'Mex',
+        Tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React']
+    };
 
 ```
 ## Technologies I'm Learning :books:
