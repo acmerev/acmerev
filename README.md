@@ -63,8 +63,8 @@ acmerev@hotmail.com
  
 <details close="true">
   <summary><b>:gear: &nbsp;More About me</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=monokai" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&hide=html&layout=compact&theme=monokai" />
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
