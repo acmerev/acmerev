@@ -9,9 +9,9 @@
 💞️ I’m looking to collaborate in community projects and more...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=moltack)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
