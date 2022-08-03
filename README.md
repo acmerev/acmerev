@@ -77,3 +77,12 @@ acmerev@hotmail.com
 <details close="true">
   <summary><b>:gear: &nbsp;Book's</b></summary>
 </details>
+
+
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=acmerev&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
