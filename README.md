@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=Waving&height=100&text=EMC%20&color=gradient&fontAlignY=50&fontAlign=20)
  
-
+<div align="center" >
 
 - 👋 Hi, I’m @acmerev a Software Engineer
 - 👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
@@ -8,11 +8,12 @@
 - 💞️ I’m looking to collaborate in community projects and more...
 
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <!---
 acmerev/acmerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
