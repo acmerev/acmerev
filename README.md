@@ -30,6 +30,8 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
+
+![waving](https://capsule-render.vercel.app/api?type=Waving&height=60&color=gradient&fontAlignY=50&fontAlign=20)
 acmerev@hotmail.com
 
 ```javascript
