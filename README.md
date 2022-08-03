@@ -2,11 +2,10 @@
  
 <div align="center" >
 
-- 👋 Hi, I’m @acmerev a Software Engineer
-- 👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
-- 🌱 I am currently studying a Master's Degree in Software Engineering at the Autonomous University of Tlaxcala.
-- 💞️ I’m looking to collaborate in community projects and more...
-
+👋 Hi, I’m @acmerev a Software Engineer
+👀 I’m interested in Data Structures and Algorithms, Frontend Development, Backend Development, Database Management, System Design and Cloud.
+🌱 I am currently studying a Master's Degree in Software Engineering at the Autonomous University of Tlaxcala.
+💞️ I’m looking to collaborate in community projects and more...
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=radical)
@@ -46,6 +45,7 @@ acmerev@hotmail.com
     };
 
 ```
+<div align="center" >
 ## Technologies I'm Learning :books:
 
 #### Software:
@@ -55,7 +55,8 @@ acmerev@hotmail.com
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
+</div> 
+ 
 <details close="true">
   <summary><b>:gear: &nbsp;More About me</b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=highcontrast" />
