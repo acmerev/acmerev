@@ -91,8 +91,23 @@ acmerev@hotmail.com
 
 <details close="true">
   <summary><b>:gear: &nbsp;Book's</b></summary>
+  
+  <br></br>
+  
+   <img
+    width="400"
+    alt="Angular Logo"
+    src="https://ci6.googleusercontent.com/proxy/KrrgKk68q9LO0-l8lS0DydbUw6KhZ-Ypeti_KOSIVKlb0Fc8BUj_C9gtJky_F5qLfAsnbc2DKBrm3ZgU63ZEVj4JTgUu4x8IoPAc68cIeDbBug4_4mSx6P-fTzCOzE04mxGxvOC87_vYNeiCWMk=s0-d-e1-ft#https://bucket.mlcdn.com/a/1590/1590228/images/69ee05d1fb16f3c770bf8c619cb77c29c9ae6d11.png"
+  />
+
+  
 </details>
 
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=acmerev%20&fontAlign=70&fontColor=d6ace6&fontSize=25&animation=twinkling)
+
+
+
+
+
