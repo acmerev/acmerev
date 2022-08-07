@@ -48,7 +48,7 @@ let emc = {
         tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React']
     };
 
-emc["interest"] = ['Golan','vlang','kotlin'];
+emc["interest"] = ['golan','vlang','kotlin'];
 
 console.log(emc)
 
