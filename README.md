@@ -45,7 +45,7 @@ let emc = {
         whois: 'Software engineer',
         stack: 'Full',
         country: 'Mex',
-        tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React']
+        tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React','Spring Boot','Java']
     };
 
 emc["interest"] = ['golan','vlang','kotlin'];
