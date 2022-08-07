@@ -40,13 +40,17 @@ acmerev@hotmail.com
 
 ```javascript
 
- let emc = {
+let emc = {
         name: 'Emmanuel',
         whois: 'Software engineer',
         stack: 'Full',
         country: 'Mex',
-        Tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React']
+        tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React']
     };
+
+emc["interest"] = ['Golan','vlang','kotlin'];
+
+console.log(emc)
 
 ```
 <div align="center">
