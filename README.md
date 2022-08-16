@@ -1,3 +1,6 @@
+<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+
+
 <div align="center" >
 
 ![waving](https://capsule-render.vercel.app/api?type=Waving&height=100&text=EMC%20&color=gradient&fontAlignY=50&fontAlign=20)
