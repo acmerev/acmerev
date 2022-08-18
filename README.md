@@ -108,6 +108,34 @@ console.log(emc)
 </details>
 
 
+<details close="true">
+  <summary><b>:gear: &nbsp;Interesting links and help for developers </b></summary>
+  
+  <br></br>
+
+
+  
+<table>
+<tr>
+  <td><strong> Link  </strong></td>
+  <td><strong> Description </strong></td>
+</tr>
+
+<tr>
+  <td> https://dbdiagram.io/home </td>
+  <td>Draw Entity-Relationship Diagrams</td>
+</tr>
+
+<tr>
+  <td>https://www.freecodecamp.org/</td>
+  <td>Learn to code — for free. Build projects.Earn certifications.</td>
+</tr>
+
+</table>
+  
+  
+</details>
+
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=acmerev%20&fontAlign=70&fontColor=d6ace6&fontSize=25&animation=twinkling)
 
