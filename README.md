@@ -133,6 +133,10 @@ console.log(emc)
  <td> https://roadmap.sh/ </td>
  <td> roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. </td>
  </tr>
+ <tr>
+ <td>https://mermaid.live/</td>
+ <td>Mermaid lets you create diagrams and visualizations using text and code. </td>
+ </tr>
 
 </table>
   
