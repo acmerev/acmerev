@@ -133,10 +133,20 @@ console.log(emc)
  <td> https://roadmap.sh/ </td>
  <td> roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. </td>
  </tr>
+ 
  <tr>
  <td>https://mermaid.live/</td>
  <td>Mermaid lets you create diagrams and visualizations using text and code. </td>
  </tr>
+ 
+ <tr>
+ <td> https://kroki.io/ </td>
+ <td> <strong> Creates diagrams from textual descriptions! </strong>
+Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag, PacketDiag, RackDiag), BPMN, Bytefield, C4 (with PlantUML), Ditaa, Erd, Excalidraw, GraphViz, Mermaid, Nomnoml, Pikchr, PlantUML, Structurizr, SvgBob, UMLet, Vega, Vega-Lite, WaveDrom... and more to come!
+
+ </td>
+ </tr>
+ 
 
 </table>
   
