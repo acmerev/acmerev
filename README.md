@@ -108,7 +108,7 @@ console.log(emc)
 </details>
 
 
-<details close="true">
+<details close="false">
   <summary><b>:gear: &nbsp;Interesting links and help for developers </b></summary>
   
   <br></br>
@@ -130,6 +130,11 @@ console.log(emc)
   <td>https://www.freecodecamp.org/</td>
   <td>Learn to code — for free. Build projects.Earn certifications.</td>
 </tr>
+ 
+<tr>
+ <td> https://roadmap.sh/ </td>
+ <td> roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. </td>
+ </tr>
 
 </table>
   
