@@ -108,13 +108,11 @@ console.log(emc)
 </details>
 
 
-<details close="false">
+<details>
   <summary><b>:gear: &nbsp;Interesting links and help for developers </b></summary>
   
   <br></br>
 
-
-  
 <table>
 <tr>
   <td><strong> Link  </strong></td>
