@@ -147,6 +147,10 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  </td>
  </tr>
  
+ <tr>
+ <td>https://www.codecademy.com</td>
+ <td>We want to create a world where anyone can build something meaningful with technology, and everyone has the learning tools, resources, and opportunities to do so. Code contains a world of possibilities — all that’s required is the curiosity and drive to learn. At Codecademy </td>
+ </tr>
 
 </table>
   
