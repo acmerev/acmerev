@@ -159,8 +159,3 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=acmerev%20&fontAlign=70&fontColor=d6ace6&fontSize=25&animation=twinkling)
-
-
-
-
-
