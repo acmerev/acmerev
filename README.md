@@ -151,6 +151,11 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  <td>https://www.codecademy.com</td>
  <td>We want to create a world where anyone can build something meaningful with technology, and everyone has the learning tools, resources, and opportunities to do so. Code contains a world of possibilities — all that’s required is the curiosity and drive to learn. At Codecademy </td>
  </tr>
+ 
+ <tr>
+ <td>https://www.freecodecamp.org/</td>
+ <td>Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. </td>
+ </tr>
 
 </table>
   
