@@ -157,6 +157,11 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  <td>Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. </td>
  </tr>
 
+ <tr>
+ <td>https://devchallenges.io/</td>
+ <td>devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio. </td>
+ </tr>
+ 
 </table>
   
   
