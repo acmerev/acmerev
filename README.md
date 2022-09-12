@@ -162,6 +162,11 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  <td>devChallenges.io is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks. devChallenges.io is built with the goal of enabling you to build an outstanding portfolio. </td>
  </tr>
  
+ <tr>
+ <td>https://dbdiagram.io</td>
+ <td>dbdiagram.io is a free, simple tool to draw database diagrams (ERDs) by typing DSL code. dbdiagram uses the popular DBML (Database Markup Language). </td>
+ </tr>
+
 </table>
   
   
