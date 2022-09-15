@@ -163,8 +163,8 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  </tr>
  
  <tr>
- <td>https://dbdiagram.io</td>
- <td>dbdiagram.io is a free, simple tool to draw database diagrams (ERDs) by typing DSL code. dbdiagram uses the popular DBML (Database Markup Language). </td>
+ <td>https://developer.android.com/</td>
+ <td>Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety. </td>
  </tr>
 
 </table>
