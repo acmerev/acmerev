@@ -167,6 +167,11 @@ Kroki provides a unified API with support for BlockDiag (BlockDiag, SeqDiag, Act
  <td>Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety. </td>
  </tr>
 
+ <tr>
+ <td>https://jsoncrack.com/</td>
+ <td>JSON Crack Seamlessly visualize your JSON data instantly into graphs. </td>
+ </tr>
+
 </table>
   
   
