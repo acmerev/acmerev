@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 journey
     title My working day
-    section Go to work
+    section Go to work and programing 
       Make tea: 5: Me
       Go upstairs: 3: Me
       Do work: 1: Me, Cacomixtle
@@ -48,7 +48,7 @@ let emc = {
         whois: 'Software engineer',
         stack: 'Full',
         country: 'Mex',
-        tecs: ['HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React','Spring Boot','Java','C++']
+        tecs: ['Spring Boot','Java','HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React','C++']
     };
 
 emc["interest"] = ['golan','vlang','kotlin'];
