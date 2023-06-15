@@ -27,9 +27,10 @@ You can click the Preview link to take a look at your changes.
 journey
     title My working day
     section Go to work and programing 
-      Make tea: 5: Me
-      Go Programing: 3: Me
-      Meet: 1: Me, Cacomixtle
+      Make tea: 3: Me
+      Go Programing: 5: Me
+      Meet review lost time for Programing: 1: Me, Cacomixtle
+      Go Programing 5: Me
     section Go home
       Go Programing: 5: Me
       Sit down: 5: Me
