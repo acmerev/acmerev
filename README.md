@@ -30,7 +30,7 @@ journey
       Make tea: 3: Me
       Go Programing: 5: Me
       Meet review lost time for Programing: 1: Me
-      Go Programing 5: Me, Cacomixtle
+      Go Programing: 5: Me, Cacomixtle
     section Go home
       Go to have dinner: 5: Me
       Go to sleep: 3: Me
