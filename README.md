@@ -29,7 +29,7 @@ journey
     section Go to work and programing 
       Make tea: 5: Me
       Go Programing: 3: Me
-      Do meet: 1: Me, Cacomixtle
+      Meet: 1: Me, Cacomixtle
     section Go home
       Go Programing: 5: Me
       Sit down: 5: Me
