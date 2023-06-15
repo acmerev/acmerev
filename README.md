@@ -37,7 +37,7 @@ journey
 
 
 ![waving](https://capsule-render.vercel.app/api?type=Waving&height=60&color=gradient&fontAlignY=50&fontAlign=20)
-acmerev@hotmail.com
+acmerev@gmail.com
 
 </div>
 
