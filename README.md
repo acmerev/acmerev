@@ -49,7 +49,7 @@ let emc = {
         name: 'Emmanuel',
         whois: 'Software engineer',
         stack: 'Full',
-        country: 'Mex',
+        country: 'MX',
         tecs: ['Spring Boot','Java','HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React','C++']
     };
 
