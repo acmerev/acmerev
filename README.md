@@ -16,8 +16,37 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
+```mermaid
+
+graph TB
+
+    subgraph "Repositorio Git"
+        A((Código Fuente)) --> B((Dockerfile))
+    end
+
+    subgraph "Construcción de la imagen"
+        B --> C[Build de la Imagen]
+    end
+
+    subgraph "Registro de Contenedores"
+        C --> D{Registro de Contenedores}
+    end
+
+    subgraph "Entorno de Desarrollo"
+        D --> E((Contenedor de Desarrollo))
+    end
+
+    subgraph "Pruebas"
+        E --> F((Contenedor de Pruebas))
+    end
+
+    subgraph "Entorno de Producción"
+        F --> G((Contenedor de Producción))
+    end
 
 
+
+```
 <!---
 acmerev/acmerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
