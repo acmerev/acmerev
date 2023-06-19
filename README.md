@@ -14,9 +14,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=acmerev&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
 acmerev/acmerev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
