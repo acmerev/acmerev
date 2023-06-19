@@ -60,7 +60,7 @@ console.log(emc)
 
 ```
 <div align="center">
-## Technologies I'm Learning :books:
+## My stact Technologies
 
 #### Software:
 
