@@ -12,14 +12,14 @@
 💞️ I’m looking to collaborate in community projects and more...
 
 
-https://github-stats-alpha.vercel.app/api?username=acmerev&cc=000&tc=fff&ic=fff&bc=000
+
 
 Where cc = Card Color
       tc = Text Color
       ic = Icon Color
       bc = Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmerev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-stats-alpha.vercel.app/api?username=acmerev&cc=000&tc=fff&ic=fff&bc=000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmerev&layout=compact&theme=dark)](https://github.com/acmerev/github-readme-stats)
 
