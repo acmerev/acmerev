@@ -62,8 +62,6 @@ console.log(emc)
 <div align="center">
 ## My stact Technologies
 
-#### Software:
-
 [![My Skills](https://skillicons.dev/icons?i=spring,java,mongodb,postgresql,angular,js,html,css,ts,bootstrap)](https://skillicons.dev)
 
 </div> 
