@@ -50,7 +50,7 @@ let emc = {
         tecs: ['Spring Boot','Java','HTML', 'CSS', 'JavaScrip', 'Bootstrap', 'Node.js','React','C++']
     };
 
-emc["interest"] = ['golan','vlang','kotlin'];
+emc["interest"] = ['golan','vlang','kotlin', 'bpmn', 'NLG' ];
 
 
 
