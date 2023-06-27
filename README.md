@@ -51,6 +51,7 @@ let emc = {
     };
 
 emc["interest"] = ['golan','vlang','kotlin', 'bpmn', 'NLG' ];
+emc["Master"] = ['Architectures of Natural Language Generation Systems'];
 
 
 
